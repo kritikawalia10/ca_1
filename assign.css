@@ -1,0 +1,72 @@
+.amaz{
+    max-width: 50px;
+    max-height: 40px;
+    background-color: none;
+}
+#top{
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+}
+#text{
+    max-width: 220px;
+    max-height: 30px;
+    background-color: white;
+}
+#button{
+    max-width:25px;
+    max-height: 30px;
+    background-color: white;
+    color: black;
+}
+#ser{
+    max-height: 30px;
+    max-width: 50px;
+    margin-right: 10px;
+    background-color: rgb(239, 239, 82);
+    color: black;
+}
+.type{
+    display: flex;
+    border: 1px;
+    border-radius: 4px;
+}
+.flexbox-container{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+.pri{
+    max-width: 70px;
+    max-height: 50px;
+    background-color: none;
+    padding-bottom: 20px;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.sec{
+    background-color:black;
+}
+.mid{
+    background-color: darkslategray;
+    margin:10px ;
+}
+.flexbox{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+}
+.flexbox-cont{
+    display: flex;
+    justify-content: space-evenly;
+    height: 150px;
+}
+.item4{
+    background-color: aliceblue;
+}
+#sign{
+    background-color: rgb(200, 157, 49);
+    
+}
